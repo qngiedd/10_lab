@@ -1,0 +1,7 @@
+C:\Users\imngl\source\repos\OOP_lab10\OOP_lab10\bin\Debug\OOP_lab10.exe.config
+C:\Users\imngl\source\repos\OOP_lab10\OOP_lab10\bin\Debug\OOP_lab10.exe
+C:\Users\imngl\source\repos\OOP_lab10\OOP_lab10\bin\Debug\OOP_lab10.pdb
+C:\Users\imngl\source\repos\OOP_lab10\OOP_lab10\obj\Debug\OOP_lab10.csproj.CoreCompileInputs.cache
+C:\Users\imngl\source\repos\OOP_lab10\OOP_lab10\obj\Debug\OOP_lab10.exe
+C:\Users\imngl\source\repos\OOP_lab10\OOP_lab10\obj\Debug\OOP_lab10.pdb
+C:\Users\imngl\source\repos\OOP_lab10\OOP_lab10\obj\Debug\OOP_lab10.csprojAssemblyReference.cache
